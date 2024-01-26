@@ -19,6 +19,11 @@ This z1g Project prioritizes producing and improving web proxy technologies such
 [Join our discord](https://z1g-project.pages.dev/discord)
 
 ### Projects
+**Ephermal**
+<br>
+*Description*: Ephermal is a web proxy for evading censorship, with a modern, clean UI.
+<br>
+*Status*: In development | release in February-March 2024.
 
 **Sodium**: https://sodium-5h8.pages.dev | [GitHub](https://github.com/z1g-project/sodium)
 <br>
@@ -26,16 +31,15 @@ This z1g Project prioritizes producing and improving web proxy technologies such
 <br>
 *Status*: Passing | Flagship. 
 
-**BruhProx**: https://bruhprox.pages.dev | [GitHub](https://github.com/z1g-project/bruhprox)
-<br>An ultraviolet-based proxy used for bypassing filters while focused on efficiency
-<br>
-*Status*: Active 
-
 **Terbium**: https://terbium-46q.pages.dev | [GitHub](https://github.com/z1g-project/terbium)
 <br>A simple WebOS made by Snoot and modded by the z1g project!
 <br>
 *Status*: Active
 
+**BruhProx**: https://bruhprox.pages.dev | [GitHub](https://github.com/z1g-project/bruhprox)
+<br>An ultraviolet-based proxy used for bypassing filters while focused on efficiency
+<br>
+*Status*: **ARCHIVED** - No longer maintained/Phasing Out. 
 **Blurred's Vault**:
 <br>
 *Status*: **End of Life Stage** - No longer maintained/Phasing Out.
