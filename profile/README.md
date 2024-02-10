@@ -19,9 +19,9 @@ This z1g Project prioritizes producing and improving web proxy technologies such
 [Join our discord](https://z1g-project.pages.dev/discord)
 
 ### Projects
-**Ephermal**
+**Ephemeral**
 <br>
-*Description*: Ephermal is a web proxy for evading censorship, with a modern, clean UI.
+*Description*: Ephemeral is a web proxy for evading censorship, with a modern, clean UI.
 <br>
 *Status*: In development | release in February-March 2024.
 
