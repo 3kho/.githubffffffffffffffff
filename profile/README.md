@@ -12,9 +12,7 @@
 
 ### About
 
-z1g Project is an organization dedicated to providing services related to bypassing internet censorship. Our projects expect to provide users, and themselves, with a less restrictive browsing experience. 
-
-This z1g Project prioritizes producing and improving web proxy technologies such as Ultraviolet, Corrosion, etc., and the affiliation with various branched projects like Rammerhead, TOMP, and Womginx from contributors. 
+z1g Project is a subgroup of the AnyVM organization that focuses on evading internet censorship. AnyVM, our owners are dedicated to virtualization based evasion of internet censorship.
 
 [Join our discord](https://z1g-project.pages.dev/discord)
 
