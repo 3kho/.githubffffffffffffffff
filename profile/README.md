@@ -38,6 +38,7 @@ z1g Project is a subgroup of the AnyVM organization that focuses on evading inte
 <br>An ultraviolet-based proxy used for bypassing filters while focused on efficiency
 <br>
 *Status*: **ARCHIVED** - No longer maintained/Phasing Out. 
+
 **Blurred's Vault**:
 <br>
 *Status*: **End of Life Stage** - No longer maintained/Phasing Out.
