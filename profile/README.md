@@ -12,7 +12,7 @@
 
 ### About
 
-z1g Project is a subgroup of the AnyVM organization that focuses on evading internet censorship. AnyVM, our owners are dedicated to virtualization based evasion of internet censorship.
+z1g Project is a group that focuses on evading internet censorship.
 
 [Join our discord](https://z1g-project.pages.dev/discord)
 
