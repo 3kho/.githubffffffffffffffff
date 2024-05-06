@@ -17,11 +17,11 @@ z1g Project is a group that focuses on evading internet censorship.
 [Join our discord](https://z1g-project.pages.dev/discord)
 
 ### Projects
-**Ephemeral**
+**Ephemeral** : https://ephemeral.incognitotgt.me/ | [GitHub](https://github.com/z1g-project/Ephemeral)
 <br>
 *Description*: Ephemeral is a web proxy for evading censorship, with a modern, clean UI.
 <br>
-*Status*: In development | release in February-March 2024.
+*Status*: Passing | Flagship
 
 **Sodium**: https://sodium-5h8.pages.dev | [GitHub](https://github.com/z1g-project/sodium)
 <br>
